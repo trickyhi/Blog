@@ -93,3 +93,44 @@ Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet b
 |lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit|
 |lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit|
 |lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit|
+
+### Code Simipits
+
+This is a raw snippet:
+
+```
+hello world
+123
+This is a text snippet
+```
+
+This is a PHP snippet:
+
+```php
+<?php
+    echo 'Hello, World!';
+?>
+```
+
+This is a JavaScript snippet:
+
+```js
+const add = (a, b) => a + b
+const minus = (a, b) => a - b
+
+console.log(add(100,200))  // 300
+console.log(minus(100,200))  // -100
+```
+
+This is a Python snippet:
+
+```python
+def say_hello():
+    print("hello world!")
+
+say_hello()   // "hello world!"
+```
+
+### Pull Quotes
+
+In graphic design, a pull quote (also known as a lift-out pull quote) is a key phrase, quotation, or excerpt that has been pulled from an article and used as a page layout graphic element, serving to entice readers into the article or to highlight a key topic. {% include pullquote.html quote="It is typically placed in a larger or distinctive typeface and on the same page." %} Pull quotes are often used in magazine and newspaper articles, annual reports, and brochures, as well as on the web. They can add visual interest to text-heavy pages with few images or illustrations.
