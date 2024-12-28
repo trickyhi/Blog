@@ -20,20 +20,14 @@ avatar: /images/avatar.jpg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
   email: 
-  facebook:
-  flickr:
+  facebook: marcouxphotography
   github: trickyhi
-  instagram: "@_r.m.photo"
-  linkedin: 
-  pinterest:
+  instagram: _r.m.photo
+  linkedin: rileymarcoux
   rss: rss
-  twitter: 
-  stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-  playconsole:
   mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
